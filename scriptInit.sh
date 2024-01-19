@@ -1,3 +1,4 @@
+#!/bin/bash
 uname -ra
 sudo apt-get update --allow-releaseinfo-change
 sudo apt-get upgrade
